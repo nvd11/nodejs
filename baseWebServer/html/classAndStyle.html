@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>change skin</title>
+  <link rel="stylesheet" type="text/css" href="../css/css1.css" />
+
+  <script>
+    function changeColorByClass(classNm){
+        var div1 = document.getElementById('div1');
+        div1.className=classNm;
+    }
+
+    function changeColorByStyle(colar){
+        var div1 = document.getElementById('div1');
+        div1.style.background=colar;
+    }
+  </script>
+
+</head>
+<body>
+  <input type="button" value="changByClass" onclick="changeColorByClass('red1');" />
+  <input type="button" value="changeByStype" onclick="changeColorByStyle('blue');" />
+  <div id="div1">
+    hi I am Jason!
+  </div>
+</body>
+
+</html>

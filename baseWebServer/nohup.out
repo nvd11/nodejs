@@ -1,0 +1,65 @@
+Server running at http://127.0.0.1:8081/
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::8081
+    at Object.exports._errnoException (util.js:1008:11)
+    at exports._exceptionWithHostPort (util.js:1031:20)
+    at Server._listen2 (net.js:1253:14)
+    at listen (net.js:1289:10)
+    at Server.listen (net.js:1385:5)
+    at Object.<anonymous> (/home/gateman/Studies/nodejs/baseWebServer/server2.js:36:4)
+    at Module._compile (module.js:541:32)
+    at Object.Module._extensions..js (module.js:550:10)
+    at Module.load (module.js:458:32)
+    at tryModuleLoad (module.js:417:12)
+Server running at http://127.0.0.1:8081/
+Request for /session2.html received.
+suffix is: html
+Request for /session2.html received.
+suffix is: html
+Request for /session2.html received.
+suffix is: html
+Server running at http://127.0.0.1:8081/
+Request for /session2.html received.
+suffix is: html
+Request for /session2.html received.
+suffix is: html
+Request for /session2.html received.
+suffix is: html
+Request for /session2.html received.
+suffix is: html
+Request for /session2.html received.
+suffix is: html
+Request for /classAndStyle.html received.
+{ Error: ENOENT: no such file or directory, open 'classAndStyle.html'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'classAndStyle.html' }
+Request for /html/classAndStyle.html received.
+suffix is: html
+Request for /css/css1.css received.
+suffix is: css
+Request for /html/classAndStyle.html received.
+suffix is: html
+Request for /css/css1.css received.
+suffix is: css
+Request for /html/classAndStyle.html received.
+suffix is: html
+Request for /css/css1.css received.
+suffix is: css
+Request for /html/classAndStyle.html received.
+suffix is: html
+Request for /css/css1.css received.
+suffix is: css
+Request for /html/classAndStyle.html received.
+suffix is: html
+Request for /css/css1.css received.
+suffix is: css
+Request for /html/classAndStyle.html received.
+suffix is: html
+Request for /css/css1.css received.
+suffix is: css
