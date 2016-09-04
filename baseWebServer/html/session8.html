@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="../js/bower_components/angular-material/angular-material.css">
+
+    <script src="../js/bower_components/angular/angular.js"></script>
+    <script src="../js/bower_components/angular-aria/angular-aria.js"></script>
+    <script src="../js/bower_components/angular-animate/angular-animate.js"></script>
+    <script src="../js/bower_components/angular-material/angular-material.js"></script>
+    <script src="../js/session8.js"></script>
+</head>
+
+<style>
+  .div2{
+    width:300px; height:300px; background:blue
+  }
+</style>
+
+
+<body ng-app="myApp">
+
+    <div ng-controller="myCtrl">
+
+      <table>
+          <tr>
+            <td>
+              <md-input-container>
+                  <label>value</label>
+                  <input ng-model="model.value1"/>
+                </md-input-container>
+            </td>
+            <td>
+              <md-button class="md-raised md-primary" ng-click="button1()">Primary</md-button>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <md-input-container class="md-icon-float md-icon-right md-block">
+                  <label>Donation Amount</label>
+                  <md-icon md-svg-src="../img/icons/email.svg"></md-icon>
+                  <input ng-model="user.donation" type="number" step="0.01">
+                  <md-icon md-svg-src="../img/icons/email.svg"></md-icon>
+              </md-input-container>
+            </td>
+          </tr>
+      </table>
+
+      <div id="div1" style="width:200px; height:300px; background:red;">
+      </div>
+
+      <md-input-container>
+          <label>width</label>
+          <input ng-model="model.width"/>
+      </md-input-container>
+      <md-button class="md-raised md-primary" ng-click="getInLineStyle()">get Inline Style</md-button>
+
+      <div id="div2" class="div2">
+      </div>
+
+      <md-input-container>
+          <label>width</label>
+          <input ng-model="model.width2"/>
+      </md-input-container>
+      <md-button class="md-raised md-primary" ng-click="getClassStyle()">get Class Style</md-button>
+
+      <br>
+      <br>
+
+      <md-input-container>
+          <label>sort the array</label>
+          <input ng-model="model.array"/>
+      </md-input-container>
+      <md-button class="md-raised md-primary" ng-click="sortArray()">sort the array </md-button>
+
+      <md-button class="md-raised md-primary" ng-click="testCompare()">test Compare</md-button>
+
+    </div>
+
+</body>
+</html>

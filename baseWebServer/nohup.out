@@ -63,3 +63,1694 @@ Request for /html/classAndStyle.html received.
 suffix is: html
 Request for /css/css1.css received.
 suffix is: css
+Request for /html/session6.html received.
+{ Error: ENOENT: no such file or directory, open 'html/session6.html'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'html/session6.html' }
+Request for /html/session6.html received.
+suffix is: html
+Request for /html/js/session6.js received.
+{ Error: ENOENT: no such file or directory, open 'html/js/session6.js'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'html/js/session6.js' }
+Request for /html/session6.html received.
+suffix is: html
+Request for /html/js/session6.js received.
+{ Error: ENOENT: no such file or directory, open 'html/js/session6.js'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'html/js/session6.js' }
+Request for /html/session6.html received.
+suffix is: html
+Request for /js/session6.js received.
+suffix is: js
+Request for /html/session6.html received.
+suffix is: html
+Request for /js/session6.js received.
+suffix is: js
+Request for /html/session6.html received.
+suffix is: html
+Request for /js/session6.js received.
+suffix is: js
+Request for /html/session6.html received.
+suffix is: html
+Request for /js/session6.js received.
+suffix is: js
+Request for /html/session6.html received.
+suffix is: html
+Request for /js/session6.js received.
+suffix is: js
+Request for /html/session6.html received.
+suffix is: html
+Request for /js/session6.js received.
+suffix is: js
+Request for /html/session6.html received.
+suffix is: html
+Request for /js/session6.js received.
+suffix is: js
+Request for /html/session6.html received.
+suffix is: html
+Request for /js/session6.js received.
+suffix is: js
+Request for /html/session6.html received.
+suffix is: html
+Request for /js/session6.js received.
+suffix is: js
+Request for /html/session6.html received.
+suffix is: html
+Request for /js/session6.js received.
+suffix is: js
+Request for /html/session6.html received.
+suffix is: html
+Request for /js/session6.js received.
+suffix is: js
+Request for /html/session6.html received.
+suffix is: html
+Request for /js/session6.js received.
+suffix is: js
+Request for /html/session6.html received.
+suffix is: html
+Request for /js/session6.js received.
+suffix is: js
+Request for /html/session6.html received.
+suffix is: html
+Request for /js/session6.js received.
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/session8.js received.
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+suffix is: js
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /favicon.ico received.
+{ Error: ENOENT: no such file or directory, open 'favicon.ico'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'favicon.ico' }
+Request for /favicon.ico received.
+{ Error: ENOENT: no such file or directory, open 'favicon.ico'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'favicon.ico' }
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+suffix is: js
+suffix is: js
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+suffix is: js
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+suffix is: js
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+suffix is: js
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+suffix is: js
+suffix is: js
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+suffix is: js
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+suffix is: js
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+suffix is: css
+suffix is: js
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+suffix is: js
+suffix is: js
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /js/bower_components/angular-material/angular-material.css%22 received.
+{ Error: ENOENT: no such file or directory, open 'js/bower_components/angular-material/angular-material.css%22'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'js/bower_components/angular-material/angular-material.css%22' }
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+suffix is: css
+suffix is: js
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+suffix is: js
+suffix is: js
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+suffix is: js
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+suffix is: js
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+suffix is: js
+suffix is: js
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /favicon.ico received.
+{ Error: ENOENT: no such file or directory, open 'favicon.ico'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'favicon.ico' }
+Request for /html/session8.html received.
+suffix is: html
+Request for /html/session8.html received.
+suffix is: html
+Request for /html/session8.html received.
+suffix is: html
+Request for /html/session8.html received.
+suffix is: html
+Request for /html/session8.html received.
+suffix is: html
+Request for /html/session8.html received.
+suffix is: html
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+suffix is: css
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /js/session8.js received.
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+suffix is: js
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+suffix is: js
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+suffix is: js
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+suffix is: js
+suffix is: js
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /js/session8.js received.
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: css
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/img/icons/ic_card_giftcard_24px.svg received.
+{ Error: ENOENT: no such file or directory, open 'html/img/icons/ic_card_giftcard_24px.svg'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'html/img/icons/ic_card_giftcard_24px.svg' }
+Request for /html/img/icons/ic_euro_24px.svg received.
+{ Error: ENOENT: no such file or directory, open 'html/img/icons/ic_euro_24px.svg'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'html/img/icons/ic_euro_24px.svg' }
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /js/session8.js received.
+suffix is: js
+Request for /img/AndroidIcon/518.png received.
+Request for /img/icons/ic_euro_24px.svg received.
+{ Error: ENOENT: no such file or directory, open 'img/AndroidIcon/518.png'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'img/AndroidIcon/518.png' }
+{ Error: ENOENT: no such file or directory, open 'img/icons/ic_euro_24px.svg'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'img/icons/ic_euro_24px.svg' }
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+suffix is: js
+suffix is: js
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/androidIcon/518.png received.
+suffix is: png
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/androidIcon/518.png received.
+suffix is: png
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+{ Error: ENOENT: no such file or directory, open 'img/icons/email.svg'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'img/icons/email.svg' }
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+suffix is: js
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+suffix is: js
+suffix is: js
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+suffix is: js
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+suffix is: js
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: css
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+suffix is: js
+suffix is: js
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+suffix is: js
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+suffix is: js
+suffix is: js
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+suffix is: js
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+suffix is: js
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+suffix is: js
+suffix is: js
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+suffix is: js
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+suffix is: css
+suffix is: js
+suffix is: js
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: css
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session8.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session8.js received.
+suffix is: css
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/icons/email.svg received.
+suffix is: svg
+Request for /html/session9.html received.
+suffix is: html
+Request for /js/session9.js received.
+suffix is: js
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /js/bower_components/angular-material/angular-material.js received.
+suffix is: js
+Request for /html/session9.html received.
+suffix is: html
+Request for /js/session9.js received.
+suffix is: js
+Request for /html/session9.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session9.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session9.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /js/session9.js received.
+suffix is: js
+Request for /html/session9.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session9.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session9.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session9.js received.
+suffix is: css
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session9.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+suffix is: js
+suffix is: js
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session9.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /html/session10.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+suffix is: css
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+suffix is: js
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+Request for /img/session10/libreoffice-calc.png received.
+Request for /img/session10/libreoffice-impress.png received.
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+suffix is: png
+suffix is: png
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+Request for /img/session10/libreoffice-impress.png received.
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+suffix is: png
+Request for /html/session10.html received.
+suffix is: html
+Request for /js/session10.js received.
+suffix is: js
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+Request for /img/session10/libreoffice-base1.png received.
+{ Error: ENOENT: no such file or directory, open 'img/session10/libreoffice-base1.png'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'img/session10/libreoffice-base1.png' }
+Request for /html/session10.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+Request for /img/session10/libreoffice-calc.png received.
+Request for /img/session10/libreoffice-impress.png received.
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+suffix is: png
+suffix is: png
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+Request for /img/session10/libreoffice-impress.png received.
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+suffix is: png
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+Request for /img/session10/libreoffice-impress.png received.
+Request for /img/session10/libreoffice-writer.png received.
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+suffix is: png
+suffix is: png
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+Server running at http://127.0.0.1:8081/
+Request for /html/session9.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session9.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+Request for /img/session10/libreoffice-calc.png received.
+Request for /img/session10/libreoffice-impress.png received.
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+suffix is: png
+suffix is: png
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+Request for /img/session10/libreoffice-calc.png received.
+Request for /img/session10/libreoffice-impress.png received.
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+suffix is: png
+suffix is: png
+Server running at http://127.0.0.1:8081/
+Request for /html/session10.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+Request for /img/session10/libreoffice-base.png received.
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+suffix is: png
+Request for /img/session10/libreoffice-impress.png received.
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+suffix is: png
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+Request for /img/session10/libreoffice-calc.png received.
+Request for /img/session10/libreoffice-impress.png received.
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+suffix is: png
+suffix is: png
+Request for /html/session10.html received.
+suffix is: html
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+Request for /js/bower_components/angular/angular.js received.
+suffix is: js
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+suffix is: js
+suffix is: js
+suffix is: js
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+Request for /img/session10/libreoffice-calc.png received.
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+suffix is: png
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+Request for /img/session10/libreoffice-calc.png received.
+Request for /img/session10/libreoffice-impress.png received.
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+suffix is: png
+suffix is: png
+Server running at http://127.0.0.1:8081/
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+Request for /img/session10/libreoffice-impress.png received.
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+suffix is: png
+base Type is: image
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-base.png received.
+Request for /img/session10/libreoffice-calc.png received.
+Request for /img/session10/libreoffice-impress.png received.
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+suffix is: png
+base Type is: image
+suffix is: png
+base Type is: image
+suffix is: png
+base Type is: image
+Server running at http://127.0.0.1:8081/
+Request for /img/session10/libreoffice-base.png received.
+Request for /img/session10/libreoffice-calc.png received.
+Request for /img/session10/libreoffice-impress.png received.
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+_http_outgoing.js:443
+    throw new TypeError('First argument must be a string or Buffer');
+    ^
+
+TypeError: First argument must be a string or Buffer
+    at ServerResponse.OutgoingMessage.write (_http_outgoing.js:443:11)
+    at /home/gateman/Studies/nodejs/baseWebServer/server2.js:41:21
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:445:3)
+Server running at http://127.0.0.1:8081/
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+_http_outgoing.js:443
+    throw new TypeError('First argument must be a string or Buffer');
+    ^
+
+TypeError: First argument must be a string or Buffer
+    at ServerResponse.OutgoingMessage.write (_http_outgoing.js:443:11)
+    at /home/gateman/Studies/nodejs/baseWebServer/server2.js:42:21
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:445:3)
+Server running at http://127.0.0.1:8081/
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::8081
+    at Object.exports._errnoException (util.js:1008:11)
+    at exports._exceptionWithHostPort (util.js:1031:20)
+    at Server._listen2 (net.js:1253:14)
+    at listen (net.js:1289:10)
+    at Server.listen (net.js:1385:5)
+    at Object.<anonymous> (/home/gateman/Studies/nodejs/baseWebServer/server2.js:48:4)
+    at Module._compile (module.js:541:32)
+    at Object.Module._extensions..js (module.js:550:10)
+    at Module.load (module.js:458:32)
+    at tryModuleLoad (module.js:417:12)
+Server running at http://127.0.0.1:8081/
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::8081
+    at Object.exports._errnoException (util.js:1008:11)
+    at exports._exceptionWithHostPort (util.js:1031:20)
+    at Server._listen2 (net.js:1253:14)
+    at listen (net.js:1289:10)
+    at Server.listen (net.js:1385:5)
+    at Object.<anonymous> (/home/gateman/Studies/nodejs/baseWebServer/server2.js:48:4)
+    at Module._compile (module.js:541:32)
+    at Object.Module._extensions..js (module.js:550:10)
+    at Module.load (module.js:458:32)
+    at tryModuleLoad (module.js:417:12)

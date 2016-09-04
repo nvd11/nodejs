@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="../js/bower_components/angular-material/angular-material.css">
+
+    <script src="../js/bower_components/angular/angular.js"></script>
+    <script src="../js/bower_components/angular-aria/angular-aria.js"></script>
+    <script src="../js/bower_components/angular-animate/angular-animate.js"></script>
+    <script src="../js/bower_components/angular-material/angular-material.js"></script>
+    <script src="../js/session10.js"></script>
+</head>
+
+<!--
+  this lession is for rolling the photos by using timer
+-->
+
+<style>
+  .div1{
+      margin:0;
+      padding:0;
+      width: 1500px;
+      height: : 256px;
+      background: red;
+  }
+
+   li.li1 {float:left;}
+   ul.ul1 {list-style:none}
+   .table1 {float:buttom;}
+</style>
+
+
+<body ng-app="myApp">
+
+    <div ng-controller="myCtrl">
+
+
+
+
+    <div class="div1">
+      <ul class="ul1">
+        <li class='li1'><img src="../img/session10/libreoffice-base.png"/></li>
+        <li class='li1'><img src="../img/session10/libreoffice-calc.png"/></li>
+        <li class='li1'><img src="../img/session10/libreoffice-impress.png"/></li>
+        <li class='li1'><img src="../img/session10/libreoffice-writer.png"/></li>
+      </ul>
+    </div>
+
+
+
+
+
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+      <table>
+          <tr>
+            <td>
+              <md-input-container>
+                  <label>timing</label>
+                  <input ng-model="model.value1"/>
+                </md-input-container>
+            </td>
+            <td>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <md-button class="md-raised md-primary" ng-click="startTiming()">start Timing</md-button>
+            </td>
+
+            <td>
+              <md-button class="md-raised md-primary" ng-click="storeTiming()">stop it</md-button>
+            </td>
+          </tr>
+      </table>
+
+
+
+    </div>
+
+</body>
+</html>

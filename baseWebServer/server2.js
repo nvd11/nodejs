@@ -25,10 +25,22 @@ http.createServer( function (request, response) {
          console.log("suffix is: " + suffix);
          // HTTP 状态码: 200 : OK
          // Content Type: text/plain
-         response.writeHead(200, {'Content-Type': 'text/' + suffix});
+         var baseType = 'text';
+         if (suffix == 'png'){
+            baseType = 'image';
+         }
+
+         console.log("base Type is: " + baseType);
+
+         response.writeHead(200, {'Content-Type': baseType + '/' + suffix});
+         //response.writeHead(200, {'Content-Type': data.type});
 
          // 响应文件内容
-         response.write(data.toString());
+         if (baseType == 'text'){
+           response.write(data.toString());
+         }else{
+           response.write(data,"binary");
+         }
       }
       //  发送响应数据
       response.end();
