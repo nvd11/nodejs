@@ -1,0 +1,29 @@
+# Object files
+*.o
+
+#compiled classfile
+*.class
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.stackdump
+*.out
+*.app
+
+# dia photos
+*.dia~
+*.autosave
+
+# temp files
+*.swp
+*.swo

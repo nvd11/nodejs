@@ -16,28 +16,36 @@
 -->
 
 <style>
-  .div1{
-      margin:0;
+  * {margin:0; padding: 0;}
+
+  #div1{
+      width: 1024px;
+      height: 256px;
+      margin:100px auto;
       padding:0;
-      width: 1500px;
-      height: : 256px;
-      background: red;
+      position: relative;
+      background: blue;
+      overflow: hidden;
   }
 
    li.li1 {float:left;}
-   ul.ul1 {list-style:none}
+   ul.ul1 {
+          list-style:none;
+           position: absolute;
+           left:0;
+           top:0;
+         }
    .table1 {float:buttom;}
+
+
 </style>
 
 
 <body ng-app="myApp">
-
     <div ng-controller="myCtrl">
 
 
-
-
-    <div class="div1">
+    <div id="div1" ng-mouseover="mouseIn()" ng-mouseleave="mouseOut()" >
       <ul class="ul1">
         <li class='li1'><img src="../img/session10/libreoffice-base.png"/></li>
         <li class='li1'><img src="../img/session10/libreoffice-calc.png"/></li>
@@ -46,8 +54,16 @@
       </ul>
     </div>
 
-
-
+    <table style="margin:10px auto">
+        <tr>
+          <td>
+              <md-button class="md-raised md-primary" ng-click="left()">Left</md-button>
+          </td>
+          <td>
+              <md-button class="md-raised md-primary" ng-click="right()">right</md-button>
+          </td>
+        </tr>
+     </table>
 
 
     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

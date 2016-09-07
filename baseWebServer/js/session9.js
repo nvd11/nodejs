@@ -20,4 +20,6 @@ app.controller('myCtrl', function($scope, $interval) {
      //clearInterval(timer1);
      $interval.cancel(timer1);
    }
+
+
 });

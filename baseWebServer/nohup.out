@@ -1754,3 +1754,2989 @@ Error: listen EADDRINUSE :::8081
     at Object.Module._extensions..js (module.js:550:10)
     at Module.load (module.js:458:32)
     at tryModuleLoad (module.js:417:12)
+Server running at http://127.0.0.1:8081/
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: css
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /favicon.ico received.
+{ Error: ENOENT: no such file or directory, open 'favicon.ico'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'favicon.ico' }
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+suffix is: css
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: css
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+suffix is: js
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+suffix is: css
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: css
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Server running at http://127.0.0.1:8081/
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+suffix is: css
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: css
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+suffix is: css
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: css
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: css
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+suffix is: css
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: css
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: css
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: css
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-calc.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-impress.png received.
+suffix is: png
+base Type is: image
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+Request for /html/session10.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+suffix is: js
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.js received.
+suffix is: js
+base Type is: text
+Request for /js/session10.js received.
+suffix is: js
+base Type is: text
+Request for /img/session10/libreoffice-base.png received.
+Request for /img/session10/libreoffice-calc.png received.
+Request for /img/session10/libreoffice-impress.png received.
+Request for /img/session10/libreoffice-writer.png received.
+suffix is: png
+base Type is: image
+suffix is: png
+base Type is: image
+suffix is: png
+base Type is: image
+suffix is: png
+base Type is: image
+Request for /favicon.ico received.
+{ Error: ENOENT: no such file or directory, open 'favicon.ico'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'favicon.ico' }
