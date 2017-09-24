@@ -1,0 +1,88 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>session 12 dom action 2</title>
+  <!--
+  <link rel="stylesheet" type="text/css" href="./css/style1.css" />
+  -->
+  <script type="text/javascript">
+    window.onload=function(){
+      var oBtn=document.getElementById('btn1');
+      var oBtn2=document.getElementById('btn2');
+      var oBtn3=document.getElementById('btn3');
+      var oBtn4=document.getElementById('btn4');
+      var oBtn5=document.getElementById('btn5');
+      var oUl=document.getElementById('ul1');
+      var oTxt=document.getElementById('txt1');
+
+      oBtn.onclick=function(){
+        var oLi=document.createElement('li');
+        oLi.innerHTML=oTxt.value;
+        //must
+        oUl.appendChild(oLi);
+      }
+
+      oBtn2.onclick=function(){
+        var oLi=document.createElement('li');
+        oLi.innerHTML=oTxt.value;
+
+        var aLi=oUl.getElementsByTagName('li');
+        if (aLi.length){
+          oUl.insertBefore(oLi, aLi[0]);
+        }
+        else{
+          oUl.appendChild(oLi);
+        }
+      }
+
+      oBtn3.onclick=function(){
+        var aLi=oUl.getElementsByTagName('li');
+        if (aLi.length){
+          oUl.removeChild(aLi[aLi.length-1]);
+        }
+      }
+
+      oBtn4.onclick=function(){
+        var oLi=document.createElement('li');
+
+        var amount = 10000;
+        for (var i = 0; i < amount  ; i++) {
+          var oLi=document.createElement('li');
+          oLi.innerHTML=oTxt.value;
+          oUl.appendChild(oLi);
+        }
+      }
+
+      oBtn5.onclick=function(){
+        var oLi=document.createElement('li');
+        var oFrag=document.createDocumentFragment();
+
+        var amount = 10000;
+        for (var i = 0; i < amount  ; i++) {
+          var oLi=document.createElement('li');
+          oLi.innerHTML=oTxt.value;
+          oFrag.appendChild(oLi);
+        }
+        oUl.appendChild(oFrag);
+      }
+
+    }
+
+  </script>
+
+</head>
+<body>
+  <input id="txt1" type="text" value="">
+  <input id="btn1" type="button" value="create Li to tail"/>
+  <input id="btn2" type="button" value="create Li to head"/>
+  <input id="btn3" type="button" value="remove tail li"/>
+  <input id="btn4" type="button" value="loop insert li"/>
+  <input id="btn5" type="button" value="loop insert li with Fragment"/>
+  <ul id="ul1">
+
+  </ul>
+
+</body>
+
+</html>

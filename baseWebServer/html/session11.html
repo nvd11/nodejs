@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="../js/bower_components/angular-material/angular-material.css">
+
+    <script src="../js/bower_components/angular/angular.js"></script>
+    <script src="../js/bower_components/angular-aria/angular-aria.js"></script>
+    <script src="../js/bower_components/angular-animate/angular-animate.js"></script>
+    <script src="../js/bower_components/angular-material/angular-material.js"></script>
+    <script src="../js/session11.js"></script>
+</head>
+
+<!--
+  this lession is for the DOM base knowledge
+-->
+
+<style>
+  .div2{
+    width:300px; height:300px; background:blue
+  }
+  /*
+    position:absolute
+    It means the node will check it's top level nodes one by one.
+    if his top level node has position absolute, it will bas on the top level node to set the postion.
+    if not, it will check deeper on the top level, until body node.
+
+    below sample. div2 will base on the body level to set it's position
+  */
+  #div1 {width:200px; height:200px; background: #CCC; margin:100px}
+  #div2 {width:100px; height:100px; background: red; left: 50px; top:50px; position:absolute}
+
+  /* below sample, div4 will base on the div3 to set it's location, as div3 is position absolute*/
+  #div3 {width:200px; height:200px; background: #CCC; margin:100px; position: absolute;}
+  #div4 {width:100px; height:100px; background: red; left: 50px; top:50px; position:absolute}
+
+  /*
+    in js, offsetParent will get one node's  parent (or grant parent and so on ..)
+    which use to set location
+  */
+</style>
+
+
+<body ng-app="myApp">
+
+    <div ng-controller="myCtrl">
+
+      <div id='div1'>
+          <div id='div2'></div>
+      </div>
+
+      <div id='div3'>
+          <div id='div4'></div>
+      </div>
+
+      <ul id='ul1'>
+        <li></li>
+        <li></li>
+      </ul>
+
+      <md-input-container>
+          <label>ul's child nodes amount</label>
+          <input ng-model="model.value1"/>
+      </md-input-container>
+
+
+    </div>
+
+</body>
+</html>

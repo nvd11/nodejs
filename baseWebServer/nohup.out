@@ -4740,3 +4740,877 @@ Request for /favicon.ico received.
   code: 'ENOENT',
   syscall: 'open',
   path: 'favicon.ico' }
+Request for /html/session11.html received.
+suffix is: html
+base Type is: text
+Request for /js/session11.js received.
+suffix is: js
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+suffix is: css
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session11.html received.
+suffix is: html
+base Type is: text
+Request for /js/session11.js received.
+suffix is: js
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+suffix is: js
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /favicon.ico received.
+{ Error: ENOENT: no such file or directory, open 'favicon.ico'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'favicon.ico' }
+Request for /favicon.ico received.
+{ Error: ENOENT: no such file or directory, open 'favicon.ico'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'favicon.ico' }
+Request for /html/session11.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session11.js received.
+suffix is: css
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session11.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session11.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session11.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session11.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session11.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session11.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session11.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session11.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session11.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session11.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session11.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session11.js received.
+suffix is: css
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /html/session11.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session11.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session11.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session11.js received.
+suffix is: css
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session11.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session11.js received.
+suffix is: css
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session11.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session11.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session11.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session11.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: css
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session11.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session11.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session11.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session11.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session11.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session11.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session11.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session11.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: css
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session11.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session11.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session11.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session11.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/session11.html received.
+suffix is: html
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.css received.
+Request for /js/bower_components/angular/angular.js received.
+Request for /js/bower_components/angular-aria/angular-aria.js received.
+Request for /js/bower_components/angular-animate/angular-animate.js received.
+suffix is: css
+base Type is: text
+Request for /js/bower_components/angular-material/angular-material.js received.
+Request for /js/session11.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Server running at http://127.0.0.1:8081/
+Request for /html/session12.html received.
+suffix is: html
+base Type is: text
+Request for /favicon.ico received.
+{ Error: ENOENT: no such file or directory, open 'favicon.ico'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'favicon.ico' }
+Request for /favicon.ico received.
+{ Error: ENOENT: no such file or directory, open 'favicon.ico'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'favicon.ico' }
+Request for /html/session12.html received.
+suffix is: html
+base Type is: text
+Request for /html/session12.html received.
+suffix is: html
+base Type is: text
+Request for /html/session12.html received.
+suffix is: html
+base Type is: text
+Request for /html/session12.html received.
+suffix is: html
+base Type is: text
+Request for /html/session12.html received.
+suffix is: html
+base Type is: text
+Request for /html/session12.html received.
+suffix is: html
+base Type is: text
+Request for /favicon.ico received.
+{ Error: ENOENT: no such file or directory, open 'favicon.ico'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'favicon.ico' }
+Request for /html/session12.html received.
+suffix is: html
+base Type is: text
+Request for /favicon.ico received.
+{ Error: ENOENT: no such file or directory, open 'favicon.ico'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'favicon.ico' }
+Request for /html/session12.html received.
+suffix is: html
+base Type is: text
+Request for /html/session12.html received.
+suffix is: html
+base Type is: text
+Request for /html/session12.html received.
+suffix is: html
+base Type is: text
+Request for /html/session12.html received.
+suffix is: html
+base Type is: text
+Request for /html/session12.html received.
+suffix is: html
+base Type is: text
+Request for /html/session12.html received.
+suffix is: html
+base Type is: text
+Request for /html/session12.html received.
+suffix is: html
+base Type is: text
+Request for /html/session12.html received.
+suffix is: html
+base Type is: text
+Request for /html/session12.html received.
+suffix is: html
+base Type is: text
+Request for /html/session12.html received.
+suffix is: html
+base Type is: text
+Server running at http://127.0.0.1:8081/
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /favicon.ico received.
+{ Error: ENOENT: no such file or directory, open 'favicon.ico'
+    at Error (native)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'favicon.ico' }
+Server running at http://127.0.0.1:8081/
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/global.js received.
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/global.js received.
+suffix is: js
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/global.js received.
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/global.js received.
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/global.js received.
+suffix is: js
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
+Request for /html/objMoveSession.html received.
+suffix is: html
+base Type is: text
+Request for /js/global.js received.
+suffix is: js
+base Type is: text
+Request for /js/objMove.js received.
+suffix is: js
+base Type is: text
